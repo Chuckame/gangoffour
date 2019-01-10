@@ -1,2 +1,0 @@
-# gangoffour
-Created with CodeSandbox
